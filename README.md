@@ -19,3 +19,4 @@ Use only terminal commands for git (you can use VS Code for editing!) :^)
 - [Req](./req.md)
 
 Good luck, have fun!
+ have a good day)
