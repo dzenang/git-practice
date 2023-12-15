@@ -4,7 +4,7 @@
 
 Use only terminal commands for git (you can use VS Code for editing!) :^)
 
-1. Fork this repo
+1. Fork this repo 
 2. Create a Markdown file using your github username, for example coolcoder22.md
 3. Use 10 minutes to add an explanation in your own words to the following
     - What is a branch
@@ -17,5 +17,7 @@ Use only terminal commands for git (you can use VS Code for editing!) :^)
 ## List of files
 
 - [Req](./req.md)
+- [sedasaka](./sedasaka.md)
 
 Good luck, have fun!
+- i had fun a lot !!
