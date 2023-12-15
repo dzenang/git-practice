@@ -1,0 +1,3 @@
+- Branch is a pointer to a specific commits
+- Pull request tells others about changes you've pushed to a branch in a repository on GitHub.
+- Fork in GitHub is a copy of an existing repository in which the new owner can make changes and push them to that new repository.
