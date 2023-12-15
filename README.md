@@ -18,5 +18,6 @@ Use only terminal commands for git (you can use VS Code for editing!) :^)
 
 - [Req](./req.md)
 - [andreymasunov1](./andreymasunov1.md)
+- [lydiarali](./lydiarali.md)
 
 Good luck, have fun!
